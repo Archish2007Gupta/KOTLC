@@ -1,0 +1,338 @@
+a.amazon_link {
+    background: #f5f5f5 url(https://shannonmessenger.com/wp-content/uploads/2018/02/amazon_btn.jpg) center 27px no-repeat;
+}
+a.oblong_btn {
+    display: block;
+    border: solid 5px #000000;
+    width: 200px;
+    height: 85px;
+    border-radius: 50px;
+    text-decoration: none;
+    margin: 15px 0px;
+    font-size: 0px;
+}
+
+a.barnes_link {
+    background: #f5f5f5 url(https://shannonmessenger.com/wp-content/uploads/2018/02/barnes_btn.jpg) center 27px no-repeat;
+}
+a.oblong_btn {
+    display: block;
+    border: solid 5px #000000;
+    width: 200px;
+    height: 85px;
+    border-radius: 50px;
+    text-decoration: none;
+    margin: 15px 0px;
+    font-size: 0px;
+}
+
+a.bam_link {
+    background: #f5f5f5 url(https://shannonmessenger.com/wp-content/uploads/2018/02/bam_btn.jpg) center 24px no-repeat;
+}
+a.oblong_btn {
+    display: block;
+    border: solid 5px #000000;
+    width: 200px;
+    height: 85px;
+    border-radius: 50px;
+    text-decoration: none;
+    margin: 15px 0px;
+    font-size: 0px;
+}
+
+a.itunes_link {
+    background: #f5f5f5 url(https://shannonmessenger.com/wp-content/uploads/2018/02/itunes_btn.jpg) center 16px no-repeat;
+}
+a.oblong_btn {
+    display: block;
+    border: solid 5px #000000;
+    width: 200px;
+    height: 85px;
+    border-radius: 50px;
+    text-decoration: none;
+    margin: 15px 0px;
+    font-size: 0px;
+}
+
+a.indie_link {
+    background: #f5f5f5 url(https://shannonmessenger.com/wp-content/uploads/2018/02/indie_bound.jpg) center 9px no-repeat;
+}
+a.oblong_btn {
+    display: block;
+    border: solid 5px #000000;
+    width: 200px;
+    height: 85px;
+    border-radius: 50px;
+    text-decoration: none;
+    margin: 15px 0px;
+    font-size: 0px;
+}
+
+a.book_link {
+    background: #f5f5f5 url(https://shannonmessenger.com/wp-content/uploads/2018/02/book_btn.jpg) center 18px no-repeat;
+}
+a.oblong_btn {
+    display: block;
+    border: solid 5px #000000;
+    width: 200px;
+    height: 85px;
+    border-radius: 50px;
+    text-decoration: none;
+    margin: 15px 0px;
+    font-size: 0px;
+}
+
+a.bookshop_link {
+    background: #f5f5f5 url(https://shannonmessenger.com/wp-content/uploads/2020/03/bookshop_logo.jpg) center 25px no-repeat;
+}
+a.oblong_btn {
+    display: block;
+    border: solid 5px #000000;
+    width: 200px;
+    height: 85px;
+    border-radius: 50px;
+    text-decoration: none;
+    margin: 15px 0px;
+    font-size: 0px;
+}
+
+.Book1-3{
+    font-size: 30px;
+    line-height: 35px;
+    padding: 20px 0px 20px 0px;
+    font-family: 'Cinzel', serif;
+}
+
+.head{
+    text-decoration: none;
+}
+
+.delete{
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+}
+
+.back{
+    background: linear-gradient(rgb(0, 0, 0),#814311)
+}
+
+.back-2{
+    background: linear-gradient(rgb(0, 0, 0),#009688)
+}
+
+.div-block-12.colorsheet {
+    background-image: url(KOTLC\ IMAGES/Keeper-Annotated-Coloring-Sheet.jpg);
+    background-position: 60% 29%;
+    background-size: 386px;
+    background-repeat: no-repeat;
+}
+.div-block-12 {
+    width: 250px;
+    height: 250px;
+    border: 1px solid #7d7d7d;
+    background-image: url(KOTLC\ IMAGES/Keeper-Annotated-Coloring-Sheet.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+}
+.w-inline-block {
+    max-width: 100%;
+    display: inline-block;
+}
+a {
+    background-color: transparent;
+}
+
+.div-block-12.iggy-colorsheet {
+    background-image: url(KOTLC\ IMAGES/iggy.jpg);
+    background-position: 50% 100%;
+    background-size: 254px;
+    background-repeat: no-repeat;
+}
+.div-block-12 {
+    width: 250px;
+    height: 250px;
+    border: 1px solid #7d7d7d;
+}
+
+.div-block-12.crossword {
+    width: 250px;
+    height: 250px;
+    background-image: url(KOTLC\ IMAGES/KOTLC-crossword-Postcard.jpg);
+    background-position: 98% 14%;
+    background-size: 600px;
+    background-repeat: no-repeat;
+}
+
+.div-block-12.guide {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    margin-left: 0px;
+    border: 1px solid #7d7d7d;
+    background-image: url(KOTLC\ IMAGES/KeeperOfLostCities_BookClubGuide-1.jpg);
+    background-position: 50% 0%;
+    background-size: cover;
+}
+
+.div-block-12.trivia {
+    width: 250px;
+    height: 250px;
+    border: 1px solid #7d7d7d;
+    background-image: url(KOTLC\ IMAGES/Keeper-of-the-Lost-Cities-Trivia.jpg);
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+
+.div-block-12.scavenger {
+    width: 250px;
+    height: 250px;
+    border: 1px solid #7d7d7d;
+    background-image: url(KOTLC\ IMAGES/Keeper-of-the-Lost-Cities-Scavenger-Hunt-Activity.jpg);
+    background-position: 50% 0%;
+}
+
+.div-block-12.stickers {
+    width: 250px;
+    height: 250px;
+    border: 1px solid #7d7d7d;
+    background-image: url(KOTLC\ IMAGES/Keeper-of-the-Lost-Citiies-Sticker-Sheet.jpg);
+    background-position: 50% 0%;
+}
+
+.back-3{
+    background: linear-gradient(rgb(0, 0, 0),#811111)
+}
+
+.div-block-12.desktop1 {
+    height: 140px;
+    background-image: url(KOTLC\ IMAGES/Keeper-Alicorn-Desktop.jpg);
+}
+
+.div-block-12.desktop2 {
+    height: 140px;
+    background-image: url(KOTLC\ IMAGES/Keeper-Character-Desktop.jpg);
+}
+
+.div-block-12.desktop3 {
+    height: 140px;
+    background-image: url(KOTLC\ IMAGES/Keeper-Titles-Desktop-REVISE.jpg);
+}
+
+.div-block-12.phone1 {
+    width: 140px;
+    margin-top: 15px;
+    background-image: url(KOTLC\ IMAGES/Keeper-Alicorn-Mobile.jpg);
+}
+
+.div-block-12.phone2 {
+    width: 140px;
+    margin-top: 15px;
+    background-image: url(KOTLC\ IMAGES/Keeper-Character-Mobile.jpg);
+}
+
+.div-block-12.phone3 {
+    width: 140px;
+    margin-top: 15px;
+    background-image: url(KOTLC\ IMAGES/Keeper-Titles-Mobile-REVISE.jpg);
+}
+
+.back-4{
+    background: linear-gradient(rgb(0, 0, 0),#1e2e53)
+}
+
+.back-5{
+    background: linear-gradient(rgb(0, 0, 0),#3d5c00)
+}
+
+.div-block-22 {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin-top: -10px;
+    background-image: url(KOTLC\ IMAGES/giphy-4.gif);
+    background-position: 50% 50%;
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+
+.div-block-23 {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin-top: -10px;
+    background-image: url(KOTLC\ IMAGES/giphy-3.gif);
+    background-position: 50% 50%;
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+
+.div-block-24 {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin-top: -10px;
+    background-image: url(KOTLC\ IMAGES/giphy-1.gif);
+    background-position: 50% 50%;
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+
+.div-block-25 {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin-top: -10px;
+    background-image: url(KOTLC\ IMAGES/giphy-2.gif);
+    background-position: 50% 50%;
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+
+element.style {
+    opacity: 1;
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+    transform-style: preserve-3d;
+}
+.zoom-unlocked {
+    width: 400px;
+    height: 225px;
+    margin-top: 0px;
+    border: 1px solid #7d7d7d;
+    background-image: url(KOTLC\ IMAGES/kotlc-unlocked-zoombackground.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.w-inline-block {
+    max-width: 100%;
+    display: inline-block;
+}
+a {
+    background-color: transparent;
+}
+
+element.style {
+    opacity: 1;
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+    transform-style: preserve-3d;
+}
+.zoom-book1 {
+    width: 400px;
+    height: 225px;
+    margin-top: 0px;
+    border: 1px solid #7d7d7d;
+    background-image: url(KOTLC\ IMAGES/ZoomBG_KOTLC.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+}
+.w-inline-block {
+    max-width: 100%;
+    display: inline-block;
+}
+a {
+    background-color: transparent;
+}
+
+.back-6{
+    background: linear-gradient(rgb(0, 0, 0),#000000)
+}
